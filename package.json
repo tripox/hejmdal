@@ -62,7 +62,7 @@
     "body-parser": "^1.19.0",
     "connect-session-knex": "^1.4.0",
     "cors": "^2.8.5",
-    "express": "~4.16.4",
+    "express": "~4.17.3",
     "express-oauth-server": "^2.0.0",
     "express-session": "^1.16.1",
     "knex": "0.16.5",
